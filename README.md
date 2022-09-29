@@ -1,6 +1,7 @@
 <h1 align="center">
  Projeto Swag Labs - Selenium
 <h1>
+
 ## Descrição 
 
 Projeto feito para testar uma aplicação que simula uma loja de roupa, consiste em realizar os testes de fluxo positivo e negativo. Testes criados para efetuar o login a compra de um produto e o cadastro ultilizando Selenium, com padrão page object.
