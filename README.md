@@ -25,12 +25,16 @@ Evidêcias de video de alguns casos de teste com fluxo positivo
  
 ![login-Google-Chrome-2022-09-28-21-00-05](https://user-images.githubusercontent.com/108771074/192911774-beadcf02-1b8f-49e5-8b07-3cfa0eed0251.gif)
 
-### Cenário carrinho
+
+ 
+ ### Cenário carrinho
 
  * adicionando produtos ao carrinho
 
  ![carrinho-Google-Chrome-2022-09-28-21-03-16](https://user-images.githubusercontent.com/108771074/192911814-96cc0e73-1832-4f7a-af62-f9c9285dd422.gif)
 
+
+ 
  ### Cenário cadastro
 
  * Fazendo cadastro e finalizando a compra 
